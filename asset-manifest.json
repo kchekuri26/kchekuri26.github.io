@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e03af641.css",
-    "main.js": "/static/js/main.2f8b715b.js",
+    "main.js": "/static/js/main.acd40a84.js",
     "static/js/592.4b4de213.chunk.js": "/static/js/592.4b4de213.chunk.js",
     "static/media/Khushal-Chekuri-Headshot.jpeg": "/static/media/Khushal-Chekuri-Headshot.dd7249b72941f12a9325.jpeg",
     "static/media/matrix-356024_1280.jpg": "/static/media/matrix-356024_1280.8cbd4f18df84541649f2.jpg",
     "index.html": "/index.html",
     "main.e03af641.css.map": "/static/css/main.e03af641.css.map",
-    "main.2f8b715b.js.map": "/static/js/main.2f8b715b.js.map",
+    "main.acd40a84.js.map": "/static/js/main.acd40a84.js.map",
     "592.4b4de213.chunk.js.map": "/static/js/592.4b4de213.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03af641.css",
-    "static/js/main.2f8b715b.js"
+    "static/js/main.acd40a84.js"
   ]
 }
