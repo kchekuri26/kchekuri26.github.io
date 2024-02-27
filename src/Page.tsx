@@ -14,7 +14,7 @@ export default function Page() {
                     </div>
 
                     {/* Name and Description */}
-                    <h1 className="text-5xl font-bold text-white">Khushal Ch</h1>
+                    <h1 className="text-5xl font-bold text-white">Khushal Chekuri</h1>
                     <p className="py-6 text-white">Hello! I'm Khushal Chekuri, a dedicated and passionate software developer currently pursuing a dual degree in Computer Science (Bachelor's and Master's) at the University of San Francisco. My academic journey is augmented by a rich portfolio of skills and experiences in various technologies and domains.</p>
                     <p className="py-6 text-white">My technical skill set is broad and diverse, encompassing languages such as C/C++, Python, Java, JavaScript, Kotlin, and Typescript. I am proficient in web and mobile application development, with hands-on experience in React, Node.js, Flutter, and Android development. Additionally, my expertise extends to cloud services and containerization technologies like AWS, Docker, and Google Cloud Platform, aligning with the current industry standards.</p>
                     <p className="py-6 text-white">In my coursework, I've delved deep into crucial subjects like Data Structures and Algorithms, Operating Systems, Machine Learning, and Cloud Computing, which have provided me with a solid foundation in software engineering principles. This academic knowledge is complemented by practical, real-world experience through internships at prestigious organizations like Amazon and Paramount, where I've contributed significantly to various projects.</p>
